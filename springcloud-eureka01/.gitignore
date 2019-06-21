@@ -1,7 +1,6 @@
 ### springcloud-eureka01 ###
-eureka-server/target/
-eureka-provider/target/
-eureka-customer/target/
+eureka-provider01/target/
+eureka-consumer01/target/
 
 HELP.md
 target/
