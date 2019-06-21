@@ -1,0 +1,36 @@
+### springcloud-eureka02 ###
+eureka-server02/target/
+eureka-provider02/target/
+eureka-consumer02/target/
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!eureka-server02/src/main/java/com
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
