@@ -11,6 +11,7 @@
     <groupId>com.wyj</groupId>
     <artifactId>springcloud-eureka01</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>springcloud-eureka01</name>
     <description>eureka注册中心</description>
 
