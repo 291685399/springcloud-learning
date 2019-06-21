@@ -8,9 +8,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.wyj</groupId>
-    <artifactId>eureka-provider</artifactId>
+    <artifactId>eureka-provider01</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eureka-provider</name>
+    <name>eureka-provider01</name>
     <description>提供者</description>
 
     <properties>

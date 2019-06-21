@@ -8,9 +8,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.wyj</groupId>
-    <artifactId>eureka-consumer</artifactId>
+    <artifactId>eureka-consumer01</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eureka-consumer</name>
+    <name>eureka-consumer01</name>
     <description>消费者</description>
 
     <properties>
