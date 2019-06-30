@@ -9,6 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>springcloud-hystrix02</name>
+    <description>Hystrix熔断机制</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
