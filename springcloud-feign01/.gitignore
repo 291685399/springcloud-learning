@@ -1,0 +1,36 @@
+### springcloud-feign01 ###
+feign-server01/target/
+feign-provider01/target/
+feign-consumer01/target/
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!feign-server01/src/main/java/com/wyj
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
