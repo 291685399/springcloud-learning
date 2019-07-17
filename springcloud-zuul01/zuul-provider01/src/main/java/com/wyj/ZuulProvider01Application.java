@@ -1,0 +1,15 @@
+package com.wyj;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+
+@SpringBootApplication
+@EnableDiscoveryClient
+public class ZuulProvider01Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ZuulProvider01Application.class, args);
+    }
+
+}
