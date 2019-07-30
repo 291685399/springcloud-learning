@@ -1,0 +1,37 @@
+### springcloud-zuul03 ###
+zuul-server03/target/
+zuul-provider03/target/
+zuul-consumer03/target/
+zuul03/target/
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!zuul-server01/src/main/java/com/wyj
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
